@@ -4,7 +4,6 @@ body{
     color: whitesmoke;
     font-family: 'Roboto', sans-serif;
     padding: 5px;
-    /* overflow: hidden; */
 }
 .main-container{
     padding: 10px;
@@ -42,7 +41,6 @@ body{
 
 .table1{
     padding: 5px;
-    /* border: 1px solid black; */
     justify-content: center;
     width: 100%;
     margin: 20px;
@@ -64,9 +62,6 @@ th{
     letter-spacing: 4px;
     text-align: left;
     font-size: 12px;
-    /* padding-left: 2px; */
-    /* padding: 2px 16px; */
-    /* margin-left: 2px; */
 }
 
 td{
@@ -74,8 +69,7 @@ td{
     font-family: 'Roboto','sans-serif';
     padding-right: 50px;
     padding-top: 10px;
-    /* padding-left: 25px ; */
-    /* margin-right: 20px; */
+
 }
 
 td input{
@@ -112,7 +106,6 @@ table{
 
 .round-i:hover + .info-box-i{
     visibility: visible;
-    /* display: none; */
 
 }
 
@@ -160,7 +153,6 @@ table{
     left: 2px;
     width: 11px;
     height: 11px;
-    /* cursor: pointer; */
     position: absolute;
     border-radius: 50%;
     background-color: rgb(83, 82, 82);
@@ -178,7 +170,6 @@ table{
 .inp{
     background-color: #292828;
     color: white;
-    /* width: 100%; */
     border: none;
     padding: 10px;
     border-radius: 5px;
@@ -187,8 +178,6 @@ table{
     width: 100%;
     outline: none;
     letter-spacing: 3px;
-    /* margin-right: 20px; */
-    /* margin-left: 15px; */
 }
 
 .Add-more{
